@@ -1,0 +1,13 @@
+{
+    "browser": "firefox",
+    "links": {
+                "default":"https://classroom.google.com/u/1/h",
+                "NT": "https://meet.google.com/lookup/hczqx5g77p?authuser=1&hs=179",
+                "CS": "https://meet.google.com/lookup/hcyxnzrhrc?authuser=1&hs=179",
+                "IAC": "https://meet.google.com/lookup/bmbpltuvci?authuser=1&hs=179",
+                "IEP": "https://meet.google.com/lookup/ghyix3rdky?authuser=1&hs=179",
+                "DEC": "https://meet.google.com/lookup/b3lnshfn5m?authuser=1&hs=179",
+                "MATHS": "https://meet.google.com/lookup/eckzttd3hi?authuser=1&hs=179",
+                "CSP": "https://meet.google.com/lookup/hfuj4cn6kf?authuser=1&hs=179"
+             }
+}

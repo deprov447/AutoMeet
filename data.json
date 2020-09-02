@@ -1,0 +1,86 @@
+[
+    [
+        {
+            "start": 1005,
+            "subject": "DEC"
+        },
+        {
+            "start": 1110,
+            "subject": "IEP"
+        },
+        {
+            "start": 1215,
+            "subject": "MATHS"
+        }
+    ],
+    [
+        {
+            "start": 900,
+            "subject": "IAC"
+        },
+        {
+            "start": 1005,
+            "subject": "IEP"
+        },
+        {
+            "start": 1110,
+            "subject": "CSP"
+        },
+        {
+            "start": 1215,
+            "subject": "MATHS"
+        }
+    ],
+    [
+        {
+            "start": 900,
+            "subject": "NT"
+        },
+        {
+            "start": 1005,
+            "subject": "DEC"
+        }
+    ],
+    [
+        {
+            "start": 900,
+            "subject": "IAC"
+        },
+        {
+            "start": 1110,
+            "subject": "DEC"
+        },
+        {
+            "start": 1215,
+            "subject": "IEP"
+        },
+        {
+            "start": 1420,
+            "subject": "CS"
+        }
+    ],
+    [
+        {
+            "start": 1110,
+            "subject": "DEC"
+        },
+        {
+            "start": 1215,
+            "subject": "MATHS"
+        },
+        {
+            "start": 1525,
+            "subject": "NT"
+        }
+    ],
+    [
+        {
+            "start": 1110,
+            "subject": "IAC"
+        },
+        {
+            "start": 1420,
+            "subject": "DEC"
+        }
+    ]
+]
