@@ -26,6 +26,4 @@ if (nowDay<=5 && whatsubindex<=Data[nowDay].length)
 {
   subject = Data[nowDay][whatsubindex - 1].subject;
 }
-module.exports = subject; 
-///////////////
-//showing some time error--- basically nowtime is wrong sometimes
+module.exports = subject;

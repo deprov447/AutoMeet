@@ -1,6 +1,7 @@
 var subject= require("./app"),
     conf = require("./config.json"),
     open = require("open");
+
 var prevsub;
 if(subject!=="none")
 {
