@@ -33,7 +33,7 @@ done
    datadata+='"default" : "'$link'"';
 datadata+='}}';
 
-echo $datadata | jq '.' > rad.json
+echo $datadata | jq '.' > config.json
 
 ######################################################################
 
